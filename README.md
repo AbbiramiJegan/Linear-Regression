@@ -20,14 +20,9 @@ This Git repository provides a comprehensive solution for converting Fahrenheit 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/fahrenheit-to-celsius-conversion.git
+   git clone https://github.com/AbbiramiJegan/Linear-Regression.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd fahrenheit-to-celsius-conversion
-   ```
 
 3. Open and run the Jupyter notebook, `linear-regression-using-fa.ipynb`, using a tool like JupyterLab or Jupyter Notebook.
 
